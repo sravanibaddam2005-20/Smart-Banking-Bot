@@ -89,7 +89,7 @@ generate_response(intent)
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Yashwanth26122005/smart-banking-bot.git
+git clone https://github.com/sravanibaddam2005-20/smart-banking-bot.git
 cd smart-banking-bot
 
 # 2. Create and activate a virtual environment
